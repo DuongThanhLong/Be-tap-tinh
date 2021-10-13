@@ -1,0 +1,42 @@
+.row h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.col-1 {
+    padding: 0px;
+}
+
+.row {
+    margin-top: 10px;
+}
+
+.radio-button {
+    height: 12px;
+    width: 12px;
+    margin-left: 10px;
+}
+
+input {
+    height: 28px;
+    width: 175px;
+    margin: auto;
+}
+
+button {
+    border-color: #afafaf;
+    justify-content: center;
+}
+
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    color: red;
+}
